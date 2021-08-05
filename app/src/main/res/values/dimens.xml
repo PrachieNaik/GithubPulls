@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="sixteen_dp">16dp</dimen>
+    <dimen name="five_dp">5dp</dimen>
+    <dimen name="four_dp">4dp</dimen>
+    <dimen name="eight_dp">8dp</dimen>
+    <dimen name="two_dp">2dp</dimen>
+    <dimen name="thirty_dp">30dp</dimen>
+    <dimen name="twenty_dp">20dp</dimen>
+    <dimen name="sixteen_sp">16sp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
+</resources>

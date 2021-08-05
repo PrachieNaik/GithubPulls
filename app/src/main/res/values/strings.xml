@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GithubPulls</string>
+    <string name="title_activity_pulls_listing">Closed Pulls</string>
+    <string name="closed_pulls_label">Closed Pulls</string>
+
+    <string name="retry">Retry</string>
+    <string name="results_error">Pulls could not be loaded</string>
+    <string name="no_results_found">No results found</string>
+</resources>
